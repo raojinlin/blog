@@ -1,3 +1,7 @@
+--
+    title: Levenshtein Distane (莱文斯坦距离) 
+    layout: post
+--
 ## Levenshtein Distane (莱文斯坦距离)
 
 Levenshtein距离(LD)是衡量两个字符串之间的相似度,我们将称之为源字符串(s)和目标字符串(t)的距离是删除,插入,或需要替换变换成t。例如,
@@ -148,6 +152,10 @@ String t = “GAMBOL”；
 2. 在```O```后面插入```L```
 
 所以他们的距离是```2```
+
+### 实现
+
+* [levenshteinDistance.go](https://github.com/raojinlin/DataStructExercise/blob/master/src/util/levenshteinDistance.go)
 
 #### 参考
 
