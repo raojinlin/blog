@@ -1,6 +1,7 @@
 ## Just For Fun
 
-[linked list](logs/linked_list)
+[linear table](logs/linear_table)
+[Levenshtein Distance](logs/levenshtein_distance.md)
 
 You can use the [editor on GitHub](https://github.com/raojinlin/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
